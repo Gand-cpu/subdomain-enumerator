@@ -13,4 +13,11 @@ An advanced subdomain enumeration tool using Python and DNS.
 
 ```bash
 python subdomain_enumerator.py example.com -w wordlists/common.txt -t 30 -o results.txt
+```
+# Author
 
+Made by [E1337]. Contributions and feedback are welcome!
+
+# Disclaimer
+
+This tool is intended **for educational purposes only** and to be used **exclusively on systems you own or have explicit permission to test
