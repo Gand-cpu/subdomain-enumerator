@@ -4,7 +4,6 @@ import concurrent.futures
 import os
 from tqdm import tqdm
 
-# DNS Resolver config
 resolver = dns.resolver.Resolver()
 resolver.timeout = 2
 resolver.lifetime = 2
